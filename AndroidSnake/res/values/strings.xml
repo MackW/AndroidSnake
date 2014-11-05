@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mode_ready">Snake\nTap To Play</string>
+  <string name="mode_pause">Paused\nTap To Resume</string>
+  <string name="mode_lose_prefix">Game Over\nScore: </string>
+  <string name="mode_lose_suffix">\nTap To Play</string>
+	 <string name="app_name">AndroidSnake</string>
+    <string name="snake_layout_text_text"></string>
+</resources>
